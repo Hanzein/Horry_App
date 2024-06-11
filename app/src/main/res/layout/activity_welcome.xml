@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/base_color"
+    tools:context=".user_ui_page.welcome.WelcomeActivity">
+
+    <ImageView
+        android:id="@+id/image_welcome"
+        android:layout_width="251dp"
+        android:layout_height="244dp"
+        android:layout_marginTop="72dp"
+        android:src="@drawable/image_welcome"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="42dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="42dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_welcome">
+
+        <TextView
+            android:id="@+id/txt_welcome_title"
+            android:layout_width="match_parent"
+            android:textSize="30sp"
+            android:layout_height="wrap_content"
+            android:alpha="0"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:fontFamily="@font/font1_jolly_lodger_regular"
+            android:text="@string/welcome_title"
+            android:textColor="@color/color_primary"
+            tools:alpha="100" />
+
+        <TextView
+            android:id="@+id/txt_welcome_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:alpha="0"
+            android:fontFamily="@font/font3_poppins_semibold"
+            android:textColor="@color/color_secondary"
+            android:paddingTop="6dp"
+            android:text="@string/welcome_desc"
+            tools:alpha="100" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_welcome_login"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="162dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="162dp"
+        android:alpha="0"
+        android:text="@string/login_buttonpage"
+        android:contentDescription="@string/btn1_content_desc_welcome"
+        android:textAllCaps="true"
+        android:background="@drawable/bg_color_primary"
+        android:textColor="@color/black"
+        android:fontFamily="@font/font5_poppinsbold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        tools:alpha="100" />
+
+    <TextView
+        android:id="@+id/txt_welcome_or"
+        android:alpha="0"
+        tools:alpha="100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="177dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="177dp"
+        android:fontFamily="@font/font2_poppins_regular"
+        android:textColor="@color/white"
+        android:text="@string/text_between_button_welcome"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_welcome_login" />
+
+
+    <Button
+        android:id="@+id/btn_welcome_signup"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="162dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="162dp"
+        android:alpha="0"
+        android:text="@string/text_btn_register"
+        android:contentDescription="@string/btn2_content_desc_welcome"
+        android:fontFamily="@font/font5_poppinsbold"
+        android:background="@drawable/bg_color_secondary"
+        android:textColor="@color/color_primary"
+        android:textAllCaps="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_welcome_or"
+        tools:alpha="100" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

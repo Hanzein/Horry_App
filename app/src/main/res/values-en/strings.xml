@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Horror Story App</string>
+    <string name="welcome_title">Welcome to Horror Story App</string>
+    <string name="welcome_desc">"Lock your door, sit in the most comfortable place, turn off the lights, and prepare yourself to read stories filled with mystery beyond human comprehension."</string>
+    <string name="name">Your Name</string>
+    <string name="email">Your Email</string>
+    <string name="password">Your Password</string>
+    <string name="text_btn_register">Register</string>
+
+    <string name="login_tit_dialog">Login Successful</string>
+    <string name="login_con_dialog">Tell us your scary story!!!</string>
+
+    <string name="login_tit_dialogerr">Login Failed</string>
+    <string name="login_con_dialogerr">Please check your Email &amp; Password again.</string>
+
+    <string name="item_txt_loading">Session Expired</string>
+    <string name="item_btn_loading">Try Again</string>
+
+    <string name="detail_desc">Write your story here</string>
+    <string name="add_btn_camera">Camera</string>
+    <string name="add_btn_gallery">Gallery</string>
+    <string name="lokasi_add">Location</string>
+    <string name="add_btn_upload">Upload</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="location_permission_denied_action">Change Settings</string>
+
+    <string name="add_success_upload">Upload Successful</string>
+    <string name="add_thankyou_fsharing">Thank you for sharing your scary story</string>
+    <string name="add_failed_upload">Upload Failed</string>
+    <string name="add_check_again">Please check your data again!</string>
+
+    <string name="registration_success">Registration Successful</string>
+    <string name="registration_createacc_success">Account successfully created!</string>
+    <string name="registration_failed">Registration Failed</string>
+    <string name="registration_email_already_haveacc">Email already registered!</string>
+
+    <string name="login_buttonpage">Log In</string>
+    <string name="text_between_button_welcome">Or</string>
+    <string name="signup_buttonpage">Sign Up</string>
+    <string name="title_signup">Come on, Sign Up!!!</string>
+    <string name="desc_signup">Please complete the following data</string>
+    <string name="title_login">Ready to read and share stories that make your hair stand on end?</string>
+    <string name="desc_login">Lets log in first!</string>
+    <string name="email_login">Email</string>
+    <string name="pass_login">Password</string>
+
+    <string name="login_msg_bottom">Dont have an account yet?</string>
+    <string name="login_msg_bottom2">Sign Up</string>
+    <string name="username">Your Name</string>
+    <string name="lokasi">Your Location</string>
+    <string name="Waktu">15/11/23, 10:30:00</string>
+
+    <string name="greeting">Welcome,</string>
+    <string name="tv_name">Horror Story Enthusiasts</string>
+    <string name="tv_profile">User</string>
+    <string name="add_new_story">Add New Story</string>
+    <string name="example_desc">On a quiet and lonely night, I suddenly felt hungry. I went to the kitchen and saw a dark figure in front of the stove.</string>
+    <string name="detail_image">Image Details</string>
+    <string name="btn_back_detail">Back to Home Page</string>
+
+    <string name="home_navtext">Home</string>
+    <string name="Map_navtext">Map</string>
+    <string name="Profile_navtext">Profile</string>
+    <string name="languange_settings">Change Language</string>
+    <string name="logout_app">Logout</string>
+
+    <string name="language_title_dialog">Change Language</string>
+    <string name="language_option_dialog">Are you sure you want to change the language?</string>
+
+    <string name="created_at">15/11/23, 10:30:00</string>
+    <string name="detail_story">Story Details</string>
+
+    <string name="HorryApp_title">Scary Stories</string>
+    <string name="profile_appbar">My Profile</string>
+
+    <string name="signup_msg_bottom">Already have an account?</string>
+    <string name="signup_msg_bottom2">Log In</string>
+
+    <string name="logout_alert">Are you sure you want to logout?</string>
+    <string name="logout_title">Logout</string>
+
+    <string name="iv1_content_desc_camera">Get Photo</string>
+    <string name="iv2_content_desc_camera">Close Camera</string>
+    <string name="iv3_content_desc_camera">Switch Camera</string>
+
+    <string name="iv1_content_desc_add">Add your photo</string>
+    <string name="iv2_content_desc_add">Back to Home</string>
+    <string name="iv3_content_desc_add">Enable your location</string>
+    <string name="btn1_content_desc_add">Get photo with camera</string>
+    <string name="btn2_content_desc_add">Get photo from gallery</string>
+    <string name="btn3_content_desc_add">Upload Story</string>
+
+    <string name="iv2_content_desc_item">Uploaded Photo Result</string>
+    <string name="iv3_content_desc_item">User Profile Photo</string>
+
+    <string name="iv1_content_desc_profile">User Profile Photo</string>
+    <string name="btn1_content_desc_profile">Change Language</string>
+    <string name="btn2_content_desc_profile">Exit Application</string>
+
+    <string name="btn1_content_desc_welcome">Login</string>
+    <string name="btn2_content_desc_welcome">Sign Up</string>
+
+    <string name="btn1_content_desc_signup">Register an account</string>
+    <string name="btn2_content_desc_signup">Login</string>
+
+    <string name="iv1_content_desc_login">Back to Home</string>
+    <string name="iv3_content_desc_login">Show/Hide Password</string>
+    <string name="btn1_content_desc_login">Log in to the application</string>
+    <string name="btn2_content_desc_login">Sign Up</string>
+
+    <string name="iv1_content_desc_language">Back to Profile</string>
+    <string name="btn1_content_desc_language">Change to Indonesian</string>
+    <string name="btn2_content_desc_language">Change to English</string>
+    <string name="btn3_content_desc_language">Change to Japanese</string>
+    <string name="btn4_content_desc_language">Change to Arab</string>
+    <string name="btn5_content_desc_language">Change to Germany</string>
+    <string name="btn6_content_desc_language">Change to France</string>
+
+    <string name="tv_indonesia_language">Indonesia</string>
+    <string name="tv_English_language">Inggris</string>
+    <string name="tv_Japan_language">Japan</string>
+    <string name="tv_Arab_language">Arab</string>
+    <string name="tv_Germany_language">Germany</string>
+    <string name="tv_France_language">France</string>
+
+    <string name="txt_ok">Ok</string>
+    <string name="txt_cancel">Cancel</string>
+
+    <string name="btn_zoomin_map">+</string>
+    <string name="btn_zoomout_map">-</string>
+    <string name="btnback_map">Back</string>
+
+    <string name="btn_showtext_map">Map Options</string>
+
+    <string name="ib_terrain">Terrain</string>
+    <string name="ib_hybrid">Hybrid</string>
+    <string name="ib_default">Default</string>
+    <string name="ib_satellite">Satellite</string>
+
+
+</resources>

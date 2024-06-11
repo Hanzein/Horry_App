@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application dhistoires dhorreur</string>
+    <string name="welcome_title">Bienvenue dans lapplication Horry Story</string>
+    <string name="welcome_desc">Fermez la porte, asseyez-vous confortablement, éteignez la lumière et préparez-vous à lire des histoires remplies de mystères au-delà de la compréhension humaine.</string>
+    <string name="name">Votre nom</string>
+    <string name="email">Votre adresse e-mail</string>
+    <string name="password">Votre mot de passe</string>
+    <string name="text_btn_register">Sinscrire</string>
+
+    <string name="login_tit_dialog">Connexion réussie</string>
+    <string name="login_con_dialog">Racontez votre histoire effrayante !!!</string>
+
+    <string name="login_tit_dialogerr">Échec de la connexion</string>
+    <string name="login_con_dialogerr">Vérifiez à nouveau votre e-mail et votre mot de passe !!!</string>
+
+    <string name="item_txt_loading">Session expirée</string>
+    <string name="item_btn_loading">Réessayer</string>
+
+    <string name="detail_desc">Écrivez votre histoire ici</string>
+    <string name="add_btn_camera">Appareil photo</string>
+    <string name="add_btn_gallery">Galerie</string>
+    <string name="lokasi_add">Emplacement</string>
+    <string name="add_btn_upload">Télécharger</string>
+    <string name="location_permission_denied">Autorisation de localisation refusée</string>
+    <string name="location_permission_denied_action">Modifier les paramètres</string>
+
+    <string name="add_success_upload">Téléchargement réussi</string>
+    <string name="add_thankyou_fsharing">Merci davoir partagé votre histoire effrayante</string>
+    <string name="add_failed_upload">Échec du téléchargement</string>
+    <string name="add_check_again">Veuillez vérifier à nouveau vos données !</string>
+
+    <string name="registration_success">Inscription réussie</string>
+    <string name="registration_createacc_success">Compte créé avec succès !</string>
+    <string name="registration_failed">Échec de linscription</string>
+    <string name="registration_email_already_haveacc">Le-mail est déjà enregistré !</string>
+
+    <string name="login_buttonpage">Se connecter</string>
+    <string name="text_between_button_welcome">Ou</string>
+    <string name="signup_buttonpage">Sinscrire</string>
+    <string name="title_signup">Allez, inscrivez-vous dabord !!!</string>
+    <string name="desc_signup">Veuillez compléter les informations suivantes</string>
+    <string name="title_login">Êtes-vous prêt à lire et à partager des histoires qui donnent des frissons ?</string>
+    <string name="desc_login">Allez-y, connectez-vous dabord !!!</string>
+    <string name="email_login">E-mail</string>
+    <string name="pass_login">Mot de passe</string>
+
+    <string name="login_msg_bottom">Vous navez pas de compte ?</string>
+    <string name="login_msg_bottom2">Sinscrire</string>
+    <string name="username">Votre nom</string>
+    <string name="lokasi">Votre emplacement</string>
+    <string name="Waktu">15/11/23, 10:30:00</string>
+
+    <string name="greeting">Bienvenue,</string>
+    <string name="tv_name">Fans dhistoires dhorreur</string>
+    <string name="tv_profile">Utilisateur</string>
+    <string name="add_new_story">Ajouter une nouvelle histoire</string>
+    <string name="example_desc">Une nuit calme et silencieuse, jai soudainement eu faim en pleine nuit, puis je suis allé à la cuisine et jai vu une silhouette noire devant la cuisinière.</string>
+    <string name="detail_image">Détail de limage</string>
+    <string name="btn_back_detail">Retour à la page daccueil</string>
+
+    <string name="home_navtext">Accueil</string>
+    <string name="Map_navtext">Carte</string>
+    <string name="Profile_navtext">Profil</string>
+
+    <string name="created_at">15/11/23, 10:30:00</string>
+    <string name="detail_story">Détail de lhistoire</string>
+
+    <string name="HorryApp_title">Mes Histoires Effrayantes</string>
+    <string name="profile_appbar">Mon profil</string>
+    <string name="languange_settings">Changer de langue</string>
+    <string name="logout_app">Quitter lapplication</string>
+
+    <string name="language_title_dialog">Changer de langue</string>
+    <string name="language_option_dialog">Voulez-vous vraiment changer de langue ?</string>
+
+    <string name="signup_msg_bottom">Déjà inscrit ?</string>
+    <string name="signup_msg_bottom2">Se connecter</string>
+
+    <string name="logout_alert">Voulez-vous vraiment vous déconnecter ?</string>
+    <string name="logout_title">Déconnexion</string>
+
+    <string name="iv1_content_desc_camera">Prendre une photo</string>
+    <string name="iv2_content_desc_camera">Fermer lappareil photo</string>
+    <string name="iv3_content_desc_camera">Changer dappareil photo</string>
+
+    <string name="iv1_content_desc_add">Ajoutez votre photo</string>
+    <string name="iv2_content_desc_add">Retour à laccueil</string>
+    <string name="iv3_content_desc_add">Activer votre emplacement</string>
+    <string name="btn1_content_desc_add">Obtenir une photo avec lappareil photo</string>
+    <string name="btn2_content_desc_add">Obtenir une photo dans la galerie</string>
+    <string name="btn3_content_desc_add">Télécharger lhistoire</string>
+
+    <string name="iv2_content_desc_item">Résultat du téléchargement de la photo</string>
+    <string name="iv3_content_desc_item">Photo de profil de lutilisateur</string>
+
+    <string name="iv1_content_desc_profile">Photo de profil de lutilisateur</string>
+    <string name="btn1_content_desc_profile">Changer de langue</string>
+    <string name="btn2_content_desc_profile">Quitter lapplication</string>
+
+    <string name="btn1_content_desc_welcome">Se connecter</string>
+    <string name="btn2_content_desc_welcome">Sinscrire</string>
+
+    <string name="btn1_content_desc_signup">Créer un compte</string>
+    <string name="btn2_content_desc_signup">Se connecter</string>
+
+    <string name="iv1_content_desc_login">Retour à laccueil</string>
+    <string name="iv3_content_desc_login">Afficher/masquer le mot de passe</string>
+    <string name="btn1_content_desc_login">Entrer dans lapplication</string>
+    <string name="btn2_content_desc_login">Sinscrire</string>
+
+    <string name="iv1_content_desc_language">Retour au profil</string>
+    <string name="btn1_content_desc_language">Changer en indonésien</string>
+    <string name="btn2_content_desc_language">Changer en anglais</string>
+    <string name="btn3_content_desc_language">Changer en japonais</string>
+    <string name="btn4_content_desc_language">Changer en arabe</string>
+    <string name="btn5_content_desc_language">Changer en allemand</string>
+    <string name="btn6_content_desc_language">Changer en français</string>
+
+    <string name="tv_indonesia_language">Indonesia</string>
+    <string name="tv_English_language">Inggris</string>
+    <string name="tv_Japan_language">Japan</string>
+    <string name="tv_Arab_language">Arab</string>
+    <string name="tv_Germany_language">Germany</string>
+    <string name="tv_France_language">France</string>
+
+    <string name="txt_ok">Daccord</string>
+    <string name="txt_cancel">Annuler</string>
+
+    <string name="btn_zoomin_map">+</string>
+    <string name="btn_zoomout_map">-</string>
+    <string name="btnback_map">Retour</string>
+
+    <string name="btn_showtext_map">Options de la carte</string>
+
+    <string name="ib_terrain">Terrain</string>
+    <string name="ib_hybrid">Hybride</string>
+    <string name="ib_default">Défaut</string>
+    <string name="ib_satellite">Satellite</string>
+
+</resources>

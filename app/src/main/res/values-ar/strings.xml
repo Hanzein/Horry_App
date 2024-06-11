@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق قصص الرعب</string>
+    <string name="welcome_title">مرحبًا بك في تطبيق قصص الرعب</string>
+    <string name="welcome_desc">أقفل بابك، اجلس في أكثر أماكنك راحةً، أطفئ الأنوار، واستعد لقراءة قصص مليئة بالغموض خارج تصور البشر.</string>
+    <string name="name">اسمك</string>
+    <string name="email">بريدك الإلكتروني</string>
+    <string name="password">كلمة المرور الخاصة بك</string>
+    <string name="text_btn_register">تسجيل</string>
+
+    <string name="login_tit_dialog">تسجيل الدخول بنجاح</string>
+    <string name="login_con_dialog">أخبرنا قصتك المخيفة!!!</string>
+
+    <string name="login_tit_dialogerr">فشل تسجيل الدخول</string>
+    <string name="login_con_dialogerr">جرب مرة أخرى بريدك الإلكتروني وكلمة المرور!!!</string>
+
+    <string name="item_txt_loading">انتهت الجلسة</string>
+    <string name="item_btn_loading">حاول مرة أخرى</string>
+
+    <string name="detail_desc">اكتب قصتك هنا</string>
+    <string name="add_btn_camera">الكاميرا</string>
+    <string name="add_btn_gallery">المعرض</string>
+    <string name="lokasi_add">الموقع</string>
+    <string name="add_btn_upload">رفع</string>
+    <string name="location_permission_denied">إذن الموقع غير مسموح به</string>
+    <string name="location_permission_denied_action">تغيير الإعدادات</string>
+
+    <string name="add_success_upload">تم الرفع بنجاح</string>
+    <string name="add_thankyou_fsharing">شكرًا لمشاركة قصتك المخيفة</string>
+    <string name="add_failed_upload">فشل الرفع</string>
+    <string name="add_check_again">جرب التحقق من بياناتك مرة أخرى!</string>
+
+    <string name="registration_success">تم التسجيل بنجاح</string>
+    <string name="registration_createacc_success">تم إنشاء الحساب بنجاح!</string>
+    <string name="registration_failed">فشل التسجيل</string>
+    <string name="registration_email_already_haveacc">البريد الإلكتروني مسجل بالفعل!</string>
+
+    <string name="login_buttonpage">تسجيل الدخول</string>
+    <string name="text_between_button_welcome">أو</string>
+    <string name="signup_buttonpage">تسجيل جديد</string>
+    <string name="title_signup">هيااااا سجل أولاً!!!</string>
+    <string name="desc_signup">يرجى إكمال البيانات التالية</string>
+    <string name="title_login">هل أنت مستعد لقراءة ومشاركة قصص تثير الرعب؟</string>
+    <string name="desc_login">لنذهب ونسجل الدخول أولاً!</string>
+    <string name="email_login">البريد الإلكتروني</string>
+    <string name="pass_login">كلمة المرور</string>
+
+    <string name="login_msg_bottom">ليس لديك حساب؟</string>
+    <string name="login_msg_bottom2">تسجيل</string>
+    <string name="username">اسمك</string>
+    <string name="lokasi">موقعك</string>
+    <string name="Waktu">23/11/15، 10:30:00</string>
+
+    <string name="greeting">مرحبًا،</string>
+    <string name="tv_name">محبي قصص الرعب</string>
+    <string name="tv_profile">المستخدم</string>
+    <string name="add_new_story">إضافة قصة جديدة</string>
+    <string name="example_desc">في ليلة هادئة وهادئة، شعرت فجأة بالجوع في وقت متأخر من الليل، ثم ذهبت إلى المطبخ ورأيت وجود كائن أسود أمام الموقد.</string>
+    <string name="detail_image">تفاصيل الصورة</string>
+    <string name="btn_back_detail">زر العودة إلى صفحة الرئيسية</string>
+
+    <string name="home_navtext">الرئيسية</string>
+    <string name="Map_navtext">الخريطة</string>
+    <string name="Profile_navtext">الملف الشخصي</string>
+
+    <string name="created_at">23/11/15، 10:30:00</string>
+    <string name="detail_story">تفاصيل القصة</string>
+
+    <string name="HorryApp_title">قصتي المخيفة</string>
+    <string name="profile_appbar">ملفي الشخصي</string>
+    <string name="languange_settings">تغيير اللغة</string>
+    <string name="logout_app">تسجيل الخروج من التطبيق</string>
+
+    <string name="language_title_dialog">تغيير اللغة</string>
+    <string name="language_option_dialog">هل أنت متأكد أنك تريد تغيير اللغة؟</string>
+
+    <string name="signup_msg_bottom">هل لديك حساب بالفعل؟</string>
+    <string name="signup_msg_bottom2">تسجيل الدخول</string>
+
+    <string name="logout_alert">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+    <string name="logout_title">تسجيل الخروج</string>
+
+    <string name="iv1_content_desc_camera">التقاط صورة</string>
+    <string name="iv2_content_desc_camera">إغلاق الكاميرا</string>
+    <string name="iv3_content_desc_camera">تغيير الكاميرا</string>
+
+    <string name="iv1_content_desc_add">أضف صورتك</string>
+    <string name="iv2_content_desc_add">العودة إلى الرئيسية</string>
+    <string name="iv3_content_desc_add">تفعيل موقعك</string>
+    <string name="btn1_content_desc_add">الحصول على صورة بواسطة الكاميرا</string>
+    <string name="btn2_content_desc_add">الحصول على صورة من المعرض</string>
+    <string name="btn3_content_desc_add">رفع القصة</string>
+
+    <string name="iv2_content_desc_item">نتيجة رفع الصورة</string>
+    <string name="iv3_content_desc_item">صورة الملف الشخصي للمستخدم</string>
+
+    <string name="iv1_content_desc_profile">صورة الملف الشخصي للمستخدم</string>
+    <string name="btn1_content_desc_profile">تغيير اللغة</string>
+    <string name="btn2_content_desc_profile">الخروج من التطبيق</string>
+
+    <string name="btn1_content_desc_welcome">تسجيل الدخول</string>
+    <string name="btn2_content_desc_welcome">تسجيل</string>
+
+    <string name="btn1_content_desc_signup">تسجيل حساب</string>
+    <string name="btn2_content_desc_signup">تسجيل الدخول</string>
+
+    <string name="iv1_content_desc_login">العودة إلى الرئيسية</string>
+    <string name="iv3_content_desc_login">عرض/إخفاء كلمة المرور</string>
+    <string name="btn1_content_desc_login">الدخول إلى التطبيق</string>
+    <string name="btn2_content_desc_login">تسجيل</string>
+
+    <string name="iv1_content_desc_language">العودة إلى الملف الشخصي</string>
+    <string name="btn1_content_desc_language">تغيير اللغة الإندونيسية</string>
+    <string name="btn2_content_desc_language">تغيير اللغة الإنجليزية</string>
+    <string name="btn3_content_desc_language">تغيير اللغة اليابانية</string>
+    <string name="btn4_content_desc_language">تغيير اللغة إلى العربية</string>
+    <string name="btn5_content_desc_language">تغيير اللغة إلى الألمانية</string>
+    <string name="btn6_content_desc_language">تغيير اللغة إلى الفرنسية</string>
+
+    <string name="tv_indonesia_language">Indonesia</string>
+    <string name="tv_English_language">Inggris</string>
+    <string name="tv_Japan_language">Japan</string>
+    <string name="tv_Arab_language">Arab</string>
+    <string name="tv_Germany_language">Germany</string>
+    <string name="tv_France_language">France</string>
+
+    <string name="txt_ok">موافق</string>
+    <string name="txt_cancel">إلغاء</string>
+
+    <string name="btn_zoomin_map">+</string>
+    <string name="btn_zoomout_map">-</string>
+    <string name="btnback_map">العودة</string>
+
+    <string name="btn_showtext_map">خيارات الخريطة</string>
+
+    <string name="ib_terrain">التضاريس</string>
+    <string name="ib_hybrid">هجين</string>
+    <string name="ib_default">افتراضي</string>
+    <string name="ib_satellite">فضائي</string>
+
+</resources>

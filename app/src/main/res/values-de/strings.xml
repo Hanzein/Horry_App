@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Horror Story App</string>
+    <string name="welcome_title">Willkommen bei der Horror Story App</string>
+    <string name="welcome_desc">Schließe deine Tür ab, setze dich an den bequemsten Ort, schalte das Licht aus und bereite dich darauf vor, Geschichten zu lesen, die voller Geheimnisse sind und jenseits menschlichen Verständnisses liegen.</string>
+    <string name="name">Dein Name</string>
+    <string name="email">Deine E-Mail</string>
+    <string name="password">Dein Passwort</string>
+    <string name="text_btn_register">Registrieren</string>
+
+    <string name="login_tit_dialog">Anmeldung erfolgreich</string>
+    <string name="login_con_dialog">Erzähle deine gruselige Geschichte!!!</string>
+
+    <string name="login_tit_dialogerr">Anmeldung fehlgeschlagen</string>
+    <string name="login_con_dialogerr">Überprüfe deine E-Mail und dein Passwort noch einmal!!!</string>
+
+    <string name="item_txt_loading">Sitzung abgelaufen</string>
+    <string name="item_btn_loading">Versuche es erneut</string>
+
+    <string name="detail_desc">Schreibe deine Geschichte hier</string>
+    <string name="add_btn_camera">Kamera</string>
+    <string name="add_btn_gallery">Galerie</string>
+    <string name="lokasi_add">Ort</string>
+    <string name="add_btn_upload">Hochladen</string>
+    <string name="location_permission_denied">Standortberechtigung nicht erteilt</string>
+    <string name="location_permission_denied_action">Einstellungen ändern</string>
+
+    <string name="add_success_upload">Erfolgreich hochgeladen</string>
+    <string name="add_thankyou_fsharing">Vielen Dank, dass du deine gruselige Geschichte geteilt hast</string>
+    <string name="add_failed_upload">Hochladen fehlgeschlagen</string>
+    <string name="add_check_again">Überprüfe deine Daten erneut!</string>
+
+
+    <string name="registration_success">Registrierung erfolgreich</string>
+    <string name="registration_createacc_success">Konto erfolgreich erstellt!</string>
+    <string name="registration_failed">Registrierung fehlgeschlagen</string>
+    <string name="registration_email_already_haveacc">E-Mail ist bereits registriert!</string>
+
+    <string name="login_buttonpage">Anmelden</string>
+    <string name="text_between_button_welcome">Oder</string>
+    <string name="signup_buttonpage">Registrieren</string>
+    <string name="title_signup">Los gehts, melde dich zuerst an!!!</string>
+    <string name="desc_signup">Bitte fülle die folgenden Daten aus</string>
+    <string name="title_login">Bist du bereit, Geschichten zu lesen und zu teilen, die dir eine Gänsehaut verleihen?</string>
+    <string name="desc_login">Los gehts, melde dich zuerst an!!!</string>
+    <string name="email_login">E-Mail</string>
+    <string name="pass_login">Passwort</string>
+
+    <string name="login_msg_bottom">Du hast noch kein Konto?</string>
+    <string name="login_msg_bottom2">Registrieren</string>
+    <string name="username">Dein Name</string>
+    <string name="lokasi">Dein Standort</string>
+    <string name="Waktu">23.11.15, 10:30:00</string>
+
+    <string name="greeting">Willkommen,</string>
+    <string name="tv_name">Für Fans von Horror-Geschichten</string>
+    <string name="tv_profile">Benutzer</string>
+    <string name="add_new_story">Neue Geschichte hinzufügen</string>
+    <string name="example_desc">An einem einsamen und stillen Abend wurde ich plötzlich hungrig. In der Nacht ging ich in die Küche und sah eine schwarze Gestalt vor dem Herd.</string>
+    <string name="detail_image">Bild-Details</string>
+    <string name="btn_back_detail">Zurück zur Startseite</string>
+
+    <string name="home_navtext">Startseite</string>
+    <string name="Map_navtext">Karte</string>
+    <string name="Profile_navtext">Profil</string>
+
+    <string name="created_at">23.11.15, 10:30:00</string>
+    <string name="detail_story">Geschichtsdetails</string>
+
+    <string name="HorryApp_title">Meine gruselige Geschichte</string>
+    <string name="profile_appbar">Mein Profil</string>
+    <string name="languange_settings">Sprache ändern</string>
+    <string name="logout_app">Ausloggen</string>
+
+    <string name="language_title_dialog">Sprache ändern</string>
+    <string name="language_option_dialog">Möchten Sie die Sprache wirklich ändern?</string>
+
+    <string name="signup_msg_bottom">Hast du bereits ein Konto?</string>
+    <string name="signup_msg_bottom2">Anmelden</string>
+
+    <string name="logout_alert">Möchten Sie sich wirklich abmelden?</string>
+    <string name="logout_title">Ausloggen</string>
+
+    <string name="iv1_content_desc_camera">Foto aufnehmen</string>
+    <string name="iv2_content_desc_camera">Kamera schließen</string>
+    <string name="iv3_content_desc_camera">Kamera wechseln</string>
+
+    <string name="iv1_content_desc_add">Füge dein Foto hinzu</string>
+    <string name="iv2_content_desc_add">Zurück zur Startseite</string>
+    <string name="iv3_content_desc_add">Aktiviere deinen Standort</string>
+    <string name="btn1_content_desc_add">Foto mit der Kamera aufnehmen</string>
+    <string name="btn2_content_desc_add">Foto aus der Galerie auswählen</string>
+    <string name="btn3_content_desc_add">Story hochladen</string>
+
+    <string name="iv2_content_desc_item">Ergebnis des Foto-Uploads</string>
+    <string name="iv3_content_desc_item">Profilbild des Benutzers</string>
+
+    <string name="iv1_content_desc_profile">Profilbild des Benutzers</string>
+    <string name="btn1_content_desc_profile">Sprache ändern</string>
+    <string name="btn2_content_desc_profile">Anwendung verlassen</string>
+
+    <string name="btn1_content_desc_welcome">Anmelden</string>
+    <string name="btn2_content_desc_welcome">Registrieren</string>
+
+    <string name="btn1_content_desc_signup">Konto registrieren</string>
+    <string name="btn2_content_desc_signup">Anmelden</string>
+
+    <string name="iv1_content_desc_login">Zurück zur Startseite</string>
+    <string name="iv3_content_desc_login">Passwort anzeigen/verstecken</string>
+    <string name="btn1_content_desc_login">In die Anwendung einloggen</string>
+    <string name="btn2_content_desc_login">Registrieren</string>
+
+    <string name="iv1_content_desc_language">Zurück zum Profil</string>
+    <string name="btn1_content_desc_language">Indonesische Sprache ändern</string>
+    <string name="btn2_content_desc_language">Englische Sprache ändern</string>
+    <string name="btn3_content_desc_language">Japanische Sprache ändern</string>
+    <string name="btn4_content_desc_language">Sprache auf Arabisch ändern</string>
+    <string name="btn5_content_desc_language">Sprache auf Deutsch ändern</string>
+    <string name="btn6_content_desc_language">Sprache auf Französisch ändern</string>
+
+    <string name="tv_indonesia_language">Indonesia</string>
+    <string name="tv_English_language">Inggris</string>
+    <string name="tv_Japan_language">Japan</string>
+    <string name="tv_Arab_language">Arab</string>
+    <string name="tv_Germany_language">Germany</string>
+    <string name="tv_France_language">France</string>
+
+    <string name="txt_ok">Ok</string>
+    <string name="txt_cancel">Abbrechen</string>
+
+    <string name="btn_zoomin_map">+</string>
+    <string name="btn_zoomout_map">-</string>
+    <string name="btnback_map">Zurück</string>
+
+    <string name="btn_showtext_map">Kartenoptionen</string>
+
+    <string name="ib_terrain">Terrain</string>
+    <string name="ib_hybrid">Hybrid</string>
+    <string name="ib_default">Default</string>
+    <string name="ib_satellite">Satellite</string>
+
+</resources>
+

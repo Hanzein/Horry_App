@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ini_activity_detail"
+    android:background="@color/base_color"
+    tools:context=".user_ui_page.detail.DetailActivity">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <com.google.android.material.appbar.AppBarLayout
+                android:id="@+id/appBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.google.android.material.appbar.MaterialToolbar
+                    android:id="@+id/appBarList"
+                    android:layout_width="match_parent"
+                    android:layout_height="?attr/actionBarSize"
+                    android:background="@color/color_secondary"
+                    app:subtitleCentered="true"
+                    app:subtitleTextColor="@color/white"
+                    app:titleCentered="true"
+                    app:titleTextColor="@color/white">
+
+                    <ImageView
+                        android:id="@+id/btnback_detail"
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:padding="7dp"
+                        android:layout_gravity="start"
+                        android:clickable="true"
+                        android:paddingStart="2dp"
+                        android:contentDescription="@string/btn_back_detail"
+                        android:focusable="true"
+                        android:onClick="BacktoHome"
+                        android:src="@drawable/baseline_arrow_back2_24" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:textColor="@color/white"
+                        android:textAlignment="center"
+                        android:textSize="20sp"
+                        android:fontFamily="@font/font3_poppins_semibold"
+                        android:text="@string/detail_story"
+                        />
+
+                </com.google.android.material.appbar.MaterialToolbar>
+            </com.google.android.material.appbar.AppBarLayout>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/appBar">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="5dp"
+                    android:paddingBottom="30dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img_story"
+                        android:layout_width="match_parent"
+                        android:layout_height="300dp"
+                        android:foregroundGravity="center"
+                        android:contentDescription="@string/detail_image"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/sample_image"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.542"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"/>
+
+
+                    <TextView
+                        android:id="@+id/tv_sender"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/username"
+                        android:layout_marginHorizontal="20dp"
+                        android:textStyle="bold"
+                        android:textSize="20sp"
+                        android:textColor="@color/white"
+                        app:layout_constraintTop_toBottomOf="@id/img_story"
+                        app:layout_constraintStart_toStartOf="parent"
+                        android:layout_marginTop="10dp"
+                        android:maxLines="1"
+                        android:ellipsize="end"
+                        android:transitionName="sender"
+                        />
+                    <TextView
+                        android:id="@+id/location"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/lokasi"
+                        android:textColor="@color/white"
+                        android:textSize="14sp"
+                        android:layout_gravity="start"
+                        app:layout_constraintTop_toBottomOf="@id/tv_sender"
+                        app:layout_constraintStart_toStartOf="parent"
+                        android:layout_marginHorizontal="20dp"
+                        android:transitionName="createdAt"
+                        />
+
+                    <TextView
+                        android:id="@+id/created_at"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/Waktu"
+                        android:textSize="14sp"
+                        android:textColor="@color/white"
+                        android:layout_gravity="start"
+                        app:layout_constraintTop_toBottomOf="@id/location"
+                        app:layout_constraintStart_toStartOf="parent"
+                        android:layout_marginHorizontal="20dp"
+                        android:transitionName="createdAt"
+                        />
+
+
+                    <TextView
+                        android:id="@+id/tv_desc"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/example_desc"
+                        android:layout_marginStart="20dp"
+                        android:textSize="16sp"
+                        android:textColor="@color/white"
+                        app:layout_constraintTop_toBottomOf="@id/created_at"
+                        app:layout_constraintStart_toStartOf="parent"
+                        android:layout_marginEnd="16dp"
+                        android:layout_marginTop="16dp"
+                        android:transitionName="description"
+                        />
+
+
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </ScrollView>
+        </RelativeLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>

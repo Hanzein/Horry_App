@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">ホラーストーリーアプリ</string>
+    <string name="welcome_title">ようこそ Horror Story App"</string>
+    <string name="welcome_desc">「ドアを閉めて、一番快適な場所に座り、ライトを消して、人間の理解を超えたミステリーに満ちた物語を読む準備をしてください。」</string>
+    <string name="name">あなたの名前</string>
+    <string name="email">あなたのメール</string>
+    <string name="password">あなたのパスワード</string>
+    <string name="text_btn_register">登録</string>
+
+    <string name="login_tit_dialog">ログイン成功</string>
+    <string name="login_con_dialog">あなたの怖い話を教えてください！</string>
+
+    <string name="login_tit_dialogerr">ログイン失敗</string>
+    <string name="login_con_dialogerr">もう一度メールアドレスとパスワードを確認してください。</string>
+
+    <string name="item_txt_loading">セッションの有効期限切れ</string>
+    <string name="item_btn_loading">もう一度試す</string>
+
+    <string name="detail_desc">ここにあなたの話を書いてください</string>
+    <string name="add_btn_camera">カメラ</string>
+    <string name="add_btn_gallery">ギャラリー</string>
+    <string name="lokasi_add">場所</string>
+    <string name="add_btn_upload">アップロード</string>
+    <string name="location_permission_denied">位置情報の許可が拒否されました</string>
+    <string name="location_permission_denied_action">設定を変更</string>
+
+    <string name="add_success_upload">アップロード成功</string>
+    <string name="add_thankyou_fsharing">怖い話を共有してくれてありがとう</string>
+    <string name="add_failed_upload">アップロード失敗</string>
+    <string name="add_check_again">もう一度データを確認してください！</string>
+
+    <string name="registration_success">登録成功</string>
+    <string name="registration_createacc_success">アカウントが正常に作成されました！</string>
+    <string name="registration_failed">登録失敗</string>
+    <string name="registration_email_already_haveacc">メールアドレスはすでに登録されています！</string>
+
+    <string name="login_buttonpage">ログイン</string>
+    <string name="text_between_button_welcome">または</string>
+    <string name="signup_buttonpage">サインアップ</string>
+    <string name="title_signup">さあ、登録しよう！</string>
+    <string name="desc_signup">以下のデータを入力してください</string>
+    <string name="title_login">毛がよだつような話を読んで共有する準備はできていますか？</string>
+    <string name="desc_login">ログインしましょう！</string>
+    <string name="email_login">メール</string>
+    <string name="pass_login">パスワード</string>
+
+    <string name="login_msg_bottom">まだアカウントをお持ちでないですか？</string>
+    <string name="login_msg_bottom2">サインアップ</string>
+    <string name="username">あなたの名前</string>
+    <string name="lokasi">あなたの場所</string>
+    <string name="Waktu">15/11/23, 10:30:00</string>
+
+    <string name="greeting">ようこそ,</string>
+    <string name="tv_name">ホラーストーリーファン</string>
+    <string name="tv_profile">ユーザー</string>
+    <string name="add_new_story">新しい話を追加</string>
+    <string name="example_desc">静かで寂しい夜、私は突然夜に空腹を感じました。台所に行くと、コンロの前に黒い姿がありました。</string>
+    <string name="detail_image">画像の詳細</string>
+    <string name="btn_back_detail">ホームページに戻るボタン</string>
+
+    <string name="home_navtext">ホーム</string>
+    <string name="Map_navtext">マップ</string>
+    <string name="Profile_navtext">プロフィール</string>
+    <string name="languange_settings">言語設定</string>
+    <string name="logout_app">アプリをログアウト</string>
+
+    <string name="language_title_dialog">言語を変更する</string>
+    <string name="language_option_dialog">本当に言語を変更しますか？</string>
+
+    <string name="created_at">15/11/23, 10:30:00</string>
+    <string name="detail_story">話の詳細</string>
+
+    <string name="HorryApp_title">私の怖い話</string>
+    <string name="profile_appbar">私のプロフィール</string>
+
+    <string name="signup_msg_bottom">すでにアカウントをお持ちですか？</string>
+    <string name="signup_msg_bottom2">ログイン</string>
+
+    <string name="logout_alert">ログアウトしますか？</string>
+    <string name="logout_title">ログアウト</string>
+
+    <string name="iv1_content_desc_camera">写真</string>
+    <string name="iv2_content_desc_camera">カメラを閉じる</string>
+    <string name="iv3_content_desc_camera">カメラを切り替える</string>
+
+    <string name="iv1_content_desc_add">あなたの写真を追加</string>
+    <string name="iv2_content_desc_add">ホームに戻る</string>
+    <string name="iv3_content_desc_add">位置情報を有効にする</string>
+    <string name="btn1_content_desc_add">カメラで写真を取得</string>
+    <string name="btn2_content_desc_add">ギャラリーから写真を取得</string>
+    <string name="btn3_content_desc_add">ストーリーをアップロード</string>
+
+    <string name="iv2_content_desc_item">アップロードされた写真の結果</string>
+    <string name="iv3_content_desc_item">ユーザープロフィール写真</string>
+
+    <string name="iv1_content_desc_profile">ユーザープロフィール写真</string>
+    <string name="btn1_content_desc_profile">言語を変更</string>
+    <string name="btn2_content_desc_profile">アプリを終了</string>
+
+    <string name="btn1_content_desc_welcome">ログイン</string>
+    <string name="btn2_content_desc_welcome">サインアップ</string>
+
+    <string name="btn1_content_desc_signup">アカウントを登録</string>
+    <string name="btn2_content_desc_signup">ログイン</string>
+
+    <string name="iv1_content_desc_login">ホームに戻る</string>
+    <string name="iv3_content_desc_login">パスワードを表示/非表示</string>
+    <string name="btn1_content_desc_login">アプリにログイン</string>
+    <string name="btn2_content_desc_login">サインアップ</string>
+
+    <string name="iv1_content_desc_language">プロフィールに戻る</string>
+    <string name="btn1_content_desc_language">インドネシア語に変更</string>
+    <string name="btn2_content_desc_language">英語に変更</string>
+    <string name="btn3_content_desc_language">日本語に変更</string>
+    <string name="btn4_content_desc_language">アラビア語に切り替える</string>
+    <string name="btn5_content_desc_language">ドイツ語に切り替える</string>
+    <string name="btn6_content_desc_language">フランス語に切り替える</string>
+
+    <string name="tv_indonesia_language">Indonesia</string>
+    <string name="tv_English_language">Inggris</string>
+    <string name="tv_Japan_language">Japan</string>
+    <string name="tv_Arab_language">Arab</string>
+    <string name="tv_Germany_language">Germany</string>
+    <string name="tv_France_language">France</string>
+
+    <string name="txt_ok">OK</string>
+    <string name="txt_cancel">キャンセル</string>
+
+    <string name="btn_zoomin_map">+</string>
+    <string name="btn_zoomout_map">-</string>
+    <string name="btnback_map">戻る</string>
+
+    <string name="btn_showtext_map">地図オプション</string>
+
+    <string name="ib_terrain">地形</string>
+    <string name="ib_hybrid">ハイブリッド</string>
+    <string name="ib_default">デフォルト</string>
+    <string name="ib_satellite">衛星</string>
+
+</resources>
